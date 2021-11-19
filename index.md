@@ -1,5 +1,7 @@
 Here is the chart I made via [Datawrapper](https://app.datawrapper.de)
 
+### BELOW ARE DIFFERENT LINKS (EX. IMAGES) TO THE CHART 
+
 
 <iframe title="[ Total # of Countries ]" aria-label="Column Chart" id="datawrapper-chart-rHj9D" src="https://datawrapper.dwcdn.net/rHj9D/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="606"></iframe> 
  
