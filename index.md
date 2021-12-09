@@ -72,3 +72,7 @@ Here is the chart I made via [Datawrapper](https://app.datawrapper.de)
  
  <iframe title="Top Countries Overall - Recent Immigrants by Selected Places of Birth" aria-label="Column Chart" id="datawrapper-chart-8F5hk" src="https://datawrapper.dwcdn.net/8F5hk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="589"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+ 
+ ## STORYMAP.JS 
+ 
+ <iframe src="https://uploads.knightlab.com/storymapjs/f5872a5a599565d363d81f60c94ba66a/your-own-digital-history-map/index.html" frameborder="0" width="100%" height="800"></iframe>
